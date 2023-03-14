@@ -28,3 +28,4 @@ https://user-images.githubusercontent.com/64872219/225035308-2147488e-08b0-4bf8-
 
 In order for the teacher to see if the students are attending the lesson, the student must check the box next to the lesson, so the teacher will be able to see that the student is attending the lesson.
 
+Please note that PollingApp is currently at an early stage of development, and therefore there are many features that are still missing.
