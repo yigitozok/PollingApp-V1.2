@@ -14,9 +14,9 @@ When we press each entry, we get the student number or user name, if any, in the
 
 https://user-images.githubusercontent.com/64872219/225035249-8b0a4a30-e448-4d68-8877-7ddd154e1d11.mov
 
-https://user-images.githubusercontent.com/64872219/225035263-7e8dd5c9-e6e8-4894-97c6-82f4a082a636.mov
-
 Then after the introduction or after the course meets the two sections, which are registered and we want to add the course.When we click on the registered lesson, we can see each week and mark which day of the lesson there is in that week by looking at the time.
+
+https://user-images.githubusercontent.com/64872219/225035263-7e8dd5c9-e6e8-4894-97c6-82f4a082a636.mov
 
 https://user-images.githubusercontent.com/64872219/225035284-c275b90d-d97f-467c-ae3f-0092185da4be.mov
 
