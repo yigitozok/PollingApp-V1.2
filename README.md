@@ -20,7 +20,11 @@ Then after the introduction or after the course meets the two sections, which ar
 
 https://user-images.githubusercontent.com/64872219/225035284-c275b90d-d97f-467c-ae3f-0092185da4be.mov
 
+we can see the week of each lesson and the day of the lesson, the time and the teacher.
+
 https://user-images.githubusercontent.com/64872219/225035299-52dc7a22-f617-4473-b3a8-470c97b20359.mov
 
 https://user-images.githubusercontent.com/64872219/225035308-2147488e-08b0-4bf8-858a-46e5b255c5ec.mov
+
+In order for the teacher to see if the students are attending the lesson, the student must check the box next to the lesson, so the teacher will be able to see that the student is attending the lesson.
 
