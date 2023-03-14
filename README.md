@@ -10,3 +10,4 @@ Then after the introduction or after the course meets the two sections, which ar
 
 You can see which students have marked the course we have marked from the teacher admin login page
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/64872219/225034471-8c3c7ba7-e1a1-489e-b698-0ff497424cd9.gif)
