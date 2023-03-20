@@ -16,7 +16,7 @@ struct ContentView: View {
                     .ignoresSafeArea()
                 VStack(spacing: 125){
                     VStack(spacing: 25){
-                        Text("Poll")
+                        Text("Polling")
                             .font(.largeTitle)
                             .fontDesign(.monospaced)
                         Image(systemName: "checkmark.rectangle.portrait")
